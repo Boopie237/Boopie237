@@ -1,26 +1,24 @@
-# 👻 Boopie237's Haunted GitHub Lair
+# 👁️ Welcome to the Haunted Lair of Boopie237 🕯️
 
-<p align="center">
-  <img src="https://img.shields.io/badge/genre-HORROR-red?style=for-the-badge&logo=ghost" alt="Horror Badge">
-  <img src="https://img.shields.io/badge/language-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Badge">
-  <img src="https://img.shields.io/badge/language-C++-blue?style=for-the-badge&logo=c%2B%2B" alt="C++ Badge">
-  <img src="https://img.shields.io/badge/language-C-red?style=for-the-badge&logo=c" alt="C Badge">
-  <img src="https://img.shields.io/badge/language-WebDev-orange?style=for-the-badge&logo=html5" alt="WebDev Badge">
-</p>
+![Horror Badge](https://img.shields.io/badge/genre-HORROR-red?style=for-the-badge&logo=ghost)
+![Era Badge](https://img.shields.io/badge/era-1960s-purple?style=for-the-badge&logo=retroarch)
+![Learning Badge](https://img.shields.io/badge/learning-Javascript%20%7C%20C%2FC%2B%2B%20%7C%20WebDev-orange?style=for-the-badge&logo=devicon)
+
+*Enter… if you dare…*
 
 ---
 
-## 🎃 Welcome to My Crypt of Code
+## 🕸️ About Me
 
-> *"Ah, my dear visitor… do step lightly. Here, code lurks in the shadows… and bugs feast at midnight."*  
-> – Imaginary Vincent Price voice  
+I am **Boopie237**, your spectral guide through the shadowy corridors of code.  
+My specialties? Summoning bugs, exorcising errors, and occasionally resurrecting deprecated functions.  
 
-I am **Boopie237**, a spectral wanderer of the programming realms. My recent hauntings include:
+I am currently haunting the realms of:  
 
-- JavaScript 👹 – the spellbook of the modern web  
-- C / C++ 🕸️ – for conjuring low-level incantations  
-- Web Development 🦇 – weaving webs more tangled than a ghost's hair  
+- **Javascript** – conjuring dynamic spells that move the DOM 🪄  
+- **C / C++** – communing with the spirits of memory and pointers ☠️  
+- **Web Development** – weaving webs darker than a bat’s cloak 🦇  
+
+> "I never make mistakes… I just create unexpected features."
 
 ---
-
-## 🩸 Skills That Go Bump in the Night
