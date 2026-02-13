@@ -15,3 +15,9 @@
 ---
 
 ## ⚡️ **`~*WELCOME TO THE DIGITAL CRYPT*~`** ⚡️
+
+👻 Boooooooooooooo...
+Loading nightmares...
+███▒▒▒▒▒▒▒▒▒▒▒ 50%
+Initializing terror.exe 🩸
+Ready to haunt your GitHub dreams
