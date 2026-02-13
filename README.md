@@ -8,10 +8,6 @@
 
 <h1 align="center">👻 Boopie237's Haunted GitHub 🎬</h1>
 
-<p align="center">
-  <img src="https://giantmonster.tumblr.com/post/152144557563" alt="dracula">
-</p>
-
 *“Enter if you dare… code may byte.”*
 
 <p align="center">
