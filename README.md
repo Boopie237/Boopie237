@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <em>"In the shadows of code, every semicolon tells a story..."</em>
+  <em>“I commit crimes… I mean commits.” </em>
 </p>
 
 ---
