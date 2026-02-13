@@ -56,8 +56,22 @@ If it compiles, it survives. If it doesn't... it becomes part of the legend.
 - Bright mode
 - Clean sanity
 
-🕷️ GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Boopie237&show_icons=true&theme=radical&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boopie237&theme=black-ice&hide_border=true&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" /> </div>
+## 🩸 GitHub Stats
+
+<div align="center">
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Boopie237&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" 
+  height="165"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boopie237&layout=compact&theme=radical&hide_border=true" 
+  height="165"
+/>
+
+</div>
+
 🎃 Contribution Graveyard
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Boopie237&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&hide_border=true" /> </div>
 📞 Contact The Crypt
