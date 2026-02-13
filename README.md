@@ -1,78 +1,67 @@
-<!-- ============================= -->
-<!--        FILM NOIR PROFILE      -->
-<!-- ============================= -->
+<!-- FILM NOIR GITHUB PROFILE -->
 
-<h1 align="center">🕶️ Jesse Walters</h1>
-<h3 align="center">A Developer in the Shadows</h3>
+<div align="center">
+
+# 🎬 Jesse Walters
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&duration=4000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=Welcome+to+the+Dark+Side+of+Code;Building+Systems+in+the+Shadows;Debugging+by+Streetlight" />
+
+</div>
+
+---
+
+## 🌑 About Me
+
+> The city runs on code.  
+> I just happen to write it.
+
+- 💻 Computer Science Student  
+- 🧠 Learning C, Java, JavaScript  
+- 🛠 Building systems one commit at a time  
+- ☕ Powered by coffee and late-night debugging  
+
+---
+
+## 🎞️ Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Code+in+the+Dark.;Debug+by+Streetlight.;Built+on+Coffee+and+Mystery." />
+  <img src="https://skillicons.dev/icons?i=c,java,js,html,css,git,github" />
 </p>
 
 ---
 
-## 🌒 About Me
+## 🕶️ GitHub Stats
 
-They say every city has a coder who works when the world sleeps.  
-That’s me.
+<div align="center">
 
-- 💻 Writing clean code in messy worlds  
-- 🌃 Building projects under neon lights  
-- ☕ Powered by caffeine and unresolved bugs  
-- 🎯 Focused on systems, logic, and sharp design  
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&border_color=444444" />
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=AAAAAA&border_color=444444" />
 
-## 🧠 Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,js,html,css,git,github,vscode" />
-</p>
+</div>
 
 ---
 
-## 🕰️ Current Case Files
+## 🌧️ Contribution Graph
 
-- 📊 Expense Tracker  
-- 🎓 Student Grade Calculator  
-- 🔄 Metric ↔ Imperial Converter  
-- 🗂️ System Analysis Projects  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=FFFFFF&line=AAAAAA&point=FFFFFF&area=true&hide_border=true" />
 
 ---
 
-## 📊 Activity in the Shadows
+## 🎥 Quote of the Night
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&border_color=333333" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=000000&ring=FFFFFF&fire=888888&currStreakLabel=FFFFFF&border=333333" />
-</p>
+> "In a world full of bugs, be the patch."
 
 ---
 
-## 🌃 Quote from the Alley
+<div align="center">
 
-> "In this town, the bugs don't sleep.  
-> They wait."
+### 🌒 Find Me in the Shadows
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
-## 🔗 Find Me in the Fog
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>Last updated at 2:17 AM, when the code finally compiled.</i>
-</p>
-
-<!-- ============================= -->
-<!--     END OF NOIR PROFILE      -->
-<!-- ============================= -->
+<!-- END -->
