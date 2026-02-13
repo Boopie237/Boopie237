@@ -1,6 +1,6 @@
 # 🩸⚡ JESSE WALTERS ⚡🩸
 
-# SATANIZED SYSTEMS
+[# SATANIZED SYSTEMS](https://readme-typing-svg.herokuapp.com?color=FF0000&size=35&center=true&vCenter=true&width=800&lines=SATANIZED+SYSTEMS;Backend+from+the+Abyss;Memory+Hunter;Bug+Exorcist)
 
 > "I didn’t choose the backend life. The backend life crawled out of the stack trace and chose me."
 
