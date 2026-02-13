@@ -32,3 +32,5 @@ I spend my nights summoning **functions** and **algorithms** in the dark corners
 - 🧟‍♂️ C/C++         : Casting pointers & memory spells
 - 🧟‍♂️ WebDev        : Hexing HTML, CSS, JS into websites
 
+🎃 Spooky Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Boopie237&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats"> </p>
