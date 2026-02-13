@@ -1,27 +1,5 @@
-<h1 align="center">
-  <span style="color:#ff0000; animation: blink 1s infinite;">👻 Boopie237's Haunted GitHub 👻</span>
-</h1>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Boopie237&color=red" alt="Profile views" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-Haunted-red?style=for-the-badge&logo=github" alt="GitHub Badge" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Mood-Eternal%20Night-black?style=for-the-badge" />
+  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="300" alt="Creepy typing effect">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=FF0000&center=true&width=650&lines=Welcome+to+the+crypt%2C+%F0%9F%91%BB;Beware+of+spooky+code%21;Enter+if+you+dare...;You+might+get+ghosted+%F0%9F%91%BB" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <i style="color:#ff0000; animation: blink 1s infinite;">“I like my code like I like my ghosts… spooky & full of surprises.”</i>
-</p>
-
-<style>
-@keyframes blink {
-  0% { opacity: 1; }
-  50% { opacity: 0.2; }
-  100% { opacity: 1; }
-}
-</style>
+# 👻 Welcome to the Haunted Lair of Boopie237 👻
