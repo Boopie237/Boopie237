@@ -1,41 +1,68 @@
-# 👻 Boopie237’s VHS Nightmare 📼
+<p align="center">
+  <img src="https://img.shields.io/badge/genre-HORROR-red?style=for-the-badge&logo=ghost" alt="Horror Badge">
+  <img src="https://img.shields.io/badge/era-1980s-purple?style=for-the-badge&logo=retroarch" alt="80s Badge">
+  <img src="https://img.shields.io/badge/VHS-REWIND-blue?style=for-the-badge&logo=vhs" alt="VHS Badge">
+</p>
 
-![VHS Badge](https://img.shields.io/badge/VHS-BloodRed?style=for-the-badge&logo=ghost) ![80s Horror](https://img.shields.io/badge/Genre-Horror-NeonRed?style=for-the-badge) ![User](https://img.shields.io/badge/User-Boopie237-EeriePurple?style=for-the-badge)
+<h1 align="center">👻 Boopie237's Haunted GitHub 🎬</h1>
 
----
-
-## ⚡ WELCOME TO THE TAPE
-
-> *"Insert tape… if you dare…"*  
-
-<style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-.typing-text {
-  overflow: hidden;
-  white-space: nowrap;
-  border-right: 0.15em solid red;
-  animation: typing 5s steps(50, end), blink-caret 0.75s step-end infinite;
-}
-@keyframes blink-caret {
-  50% { border-color: transparent; }
-}
-</style>
-
-<div class="typing-text">▶ Loading nightmare… 100% scary… ☠️</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&color=FF0000&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+haunt...;Beware+of+the+code+that+shrieks...;Enjoy+the+gore+and+glitches!" alt="Animated Typing">
+</p>
 
 ---
 
-## 🧟 VHS COLLECTION OF HORROR PUNS
+## 🩸 About Me
 
-- **Fright Nightly:** Because sleep is for the living.  
-- **Scream & Shout:** Guaranteed to wake the neighbors.  
-- **The Boopie Awakens:** Don’t let the username fool you…  
-- **Nightmare on Boopie Street:** Sleep tight, or else.  
-- **Ghoul Getter:** Catch ‘em all… in the dark.  
+I’m **Boopie237**, the ghost in your machine 👾. I make code scream, bugs shriek, and commit history bleed.  
+I specialize in:
+
+- 🎃 Spooky CSS animations
+- 🧟 Retro JavaScript necromancy
+- 📼 VHS-style README hauntings
+- 👹 Puns that will make you *die laughing*
+
+> “Why did the ghost go to GitHub? To fork the living dead!” 😱
 
 ---
 
-Warning: The code may byte. 🩸
+## 🔪 My Projects
+
+| Project | Genre | Status |
+|---------|-------|--------|
+| `SlasherJS` | Horror / JS | 🩸 Ongoing |
+| `GhoulCSS` | Haunted Styles | 👻 Released |
+| `VHS-Readme` | Retro README | 📼 Archived |
+
+> Warning: These projects are known to cause chills and accidental merge conflicts.
+
+---
+
+## 💀 Skills & Tools
+
+- **Languages:** JavaScript, Python, C++, CSS  
+- **Tools:** Git, GitHub, VSCode, Terminal of Doom  
+- **Frameworks:** React (for summoning components), Node.js (for resurrecting servers)
+
+---
+
+## 🕸 Fun Puns Corner
+
+- I tried to make a horror game in JS… it kept throwing exceptions.  
+- My GitHub commits are like ghosts… they vanish without a trace 👻  
+- CSS is scary. Sometimes it just *floats* away.
+
+---
+
+## 👁️ Connect with Me
+
+<p align="center">
+  <a href="https://github.com/Boopie237">
+    <img src="https://img.shields.io/badge/GitHub-237-black?style=for-the-badge&logo=github" alt="GitHub Badge">
+  </a>
+  <a href="mailto:boopie237@spooky.io">
+    <img src="https://img.shields.io/badge/Email-Haunted-red?style=for-the-badge&logo=gmail" alt="Email Badge">
+  </a>
+</p>
+
+---
