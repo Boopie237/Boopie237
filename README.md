@@ -16,3 +16,5 @@
 <p align="center"> 🕵️‍♂️ Detecting bugs… <span>:hourglass_flowing_sand: . . . . . .</span> <span>:detective: commit in progress...</span> </p>
 
 Every dot is a step in the foggy night of code.
+
+<p align="center"> <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Noir Smoke" width="300" /> </p>
