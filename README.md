@@ -1,44 +1,73 @@
-<h1 align="center">🩸 𝕿𝖍𝖊 𝕮𝖔𝖉𝖊 𝕹𝖊𝖛𝖊𝖗 𝕾𝖑𝖊𝖊𝖕𝖘 🩸</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="500">
-</p>
+# 🩸 Boopie237 🩸  
+### 💀 Coding From The Static Beyond 💀
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Nosifer&size=28&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=700&lines=Welcome+to+the+Night+Shift...;Code+Never+Sleeps.;Bugs+Fear+Me.;The+Compiler+Whispers..." />
+
+</div>
 
 ---
 
-## 🔥 Who Summoned Me?
+## 🧟 About Me
+Name: Boopie237
+Status: Online... Probably.
+Location: Somewhere between localhost and the void.
+Favorite Error: 666 – Stack Overflow
+Currently Summoning: Better Code
+
+I write code in dimly lit terminals where the cursor blinks like a heartbeat monitor.  
+If it compiles, it survives. If it doesn't... it becomes part of the legend.
+
+---
+
+## 🩸 Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,html,css,python,java,c,cpp,git,github,vscode" />
+
+</div>
+
+- ⚡ JavaScript rituals  
+- 🐍 Python incantations  
+- ☕ Java constructs  
+- 💻 C / C++ summoning circles  
+- 🎨 Frontend illusions  
+
+---
+
+## 🔮 Current Experiments
+
+- Building shadowy side projects  
+- Debugging things that should not exist  
+- Turning caffeine into pull requests  
+- Making repos scream in neon
+
+---
+
+## 📼 80s Horror Energy
 
 ```diff
-+ Name: Jesse Walters
-+ Role: Night Coder
-+ Location: Somewhere between 1987 and the Terminal
-+ Special Skill: Debugging in the dark
-+ Favorite Weapon: JavaScript (with a side of C)
-🧛 Tech That Haunts My Projects
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,java,c,git,github,vscode" /> </p>
-🩸 Current Experiments
-Building things that probably shouldn’t be built
++ Blood red terminals
++ VHS static aesthetics
++ Synthwave background noise
++ Glowing green text at 3AM
+- Bright mode
+- Clean sanity
 
-Turning caffeine into commits
+🕷️ GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Boopie237&show_icons=true&theme=radical&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boopie237&theme=black-ice&hide_border=true&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" /> </div>
+🎃 Contribution Graveyard
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Boopie237&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&hide_border=true" /> </div>
+📞 Contact The Crypt
 
-Summoning clean code from chaotic voids
+🕸️ Open an Issue
 
-🎃 My GitHub Stats (Enter If You Dare)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0000&icon_color=ff0000&text_color=ffffff" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=highcontrast&background=0d0d0d&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" /> </p>
-🦇 Contribution Graph of Doom
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" /> </p>
-📼 Now Playing
-“The commit is inside the repo.”
-“What repo?”
-“Yours.”
+🧛 Pull Requests Welcome
 
-☠️ Warning
-This profile may contain:
+📡 Signals detected via GitHub notifications
 
-Sudden bursts of productivity
-
-Retro synth energy
-
-Code that rises from the grave cleaner than it entered
-
-<p align="center"> <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"> </p> <h3 align="center">🩸 Stay Spooky. Ship Code. 🩸</h3> ```
+<div align="center">
+🩸 "In the end, all code becomes legacy." 🩸
+</div> ```
