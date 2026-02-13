@@ -33,7 +33,7 @@ I spend my nights summoning **functions** and **algorithms** in the dark corners
 - 🧟‍♂️ WebDev        : Hexing HTML, CSS, JS into websites
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Boopie237&show_icons=true&theme=dark&hide_border=true" alt="Boopie237 GitHub Stats" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Boopie237&theme=dark&area=true" alt="Boopie237 Activity Graph" />
 </p>
 
 <p align="center">
