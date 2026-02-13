@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/genre-HORROR-red?style=for-the-badge&logo=ghost" alt="Horror Badge">
-  <img src="https://img.shields.io/badge/era-1980s-purple?style=for-the-badge&logo=retroarch" alt="80s Badge">
   <img src="https://img.shields.io/badge/language-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Badge">
   <img src="https://img.shields.io/badge/language-C++-blue?style=for-the-badge&logo=c%2B%2B" alt="C++ Badge">
   <img src="https://img.shields.io/badge/language-C-red?style=for-the-badge&logo=c" alt="C Badge">
