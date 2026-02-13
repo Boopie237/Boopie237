@@ -1,20 +1,40 @@
-<!-- ================================ -->
-<!--        BOOPIE237 NOIR HUB        -->
-<!-- ================================ -->
+<p align="center">
+  <pre>
+      ██████╗  ██████╗ ██████╗ ██████╗ ██╗██████╗ ███████╗
+     ██╔═══██╗██╔═══██╗██╔══██╗██╔══██╗██║██╔══██╗██╔════╝
+     ██║   ██║██║   ██║██████╔╝██████╔╝██║██████╔╝█████╗  
+     ██║▄▄ ██║██║   ██║██╔═══╝ ██╔═══╝ ██║██╔═══╝ ██╔══╝  
+     ╚██████╔╝╚██████╔╝██║     ██║     ██║██║     ███████╗
+      ╚══▀▀═╝  ╚══▀▀═╝ ╚═╝     ╚═╝     ╚═╝╚═╝     ╚══════╝
+  </pre>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/username-Boopie237-000000?style=for-the-badge&logo=github&logoColor=white" alt="Username Badge" />
-  <img src="https://img.shields.io/badge/status-typing...-ff0000?style=for-the-badge&logo=ghost&logoColor=white" alt="Typing Badge" />
-  <img src="https://img.shields.io/badge/theme-FilmNoir-1a1a1a?style=for-the-badge" alt="Noir Badge" />
+  <em>"In the shadows of code, every semicolon tells a story..."</em>
 </p>
 
 ---
 
-## 🌫️ Welcome to the Shadows
+## 🎩 About Me  
 
-🔥 Live Typing Case
-<p align="center"> 🕵️‍♂️ Detecting bugs… <span>:hourglass_flowing_sand: . . . . . .</span> <span>:detective: commit in progress...</span> </p>
+- Alias: **Boopie237**, the digital gumshoe  
+- Mood: Greyscale, shadow-laden, caffeinated ☕  
+- Motto: *"I debug in the dark… and I like it that way."*  
 
-Every dot is a step in the foggy night of code.
+---
 
-<p align="center"> <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Noir Smoke" width="300" /> </p>
+## 🕵️‍♂️ Skills  
+
+| Detective Work | Tools |
+|----------------|-------|
+| Sleuthing bugs | VS Code, JetBrains |
+| Tracing shadows | Git, GitHub Actions |
+| Interrogating code | JavaScript, Python, C++ |
+| Hiding footprints | CSS, HTML, Markdown |
+
+---
+
+## 🎬 Current Cases  
+
+<details>
+  <summary>Click to see my cases… if you dare</summary>
