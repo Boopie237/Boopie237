@@ -14,13 +14,12 @@
 
 ---
 
-## ⚰️ Animated Typing Creeps
+## ⚡ Animated Typing Effect (VHS Style)
 
-Boooo... loading your nightmare...
-> Entering the lab of digital horrors...
-> Summoning code demons...
-> *Evil laugh* mwahahaha...
+![Typing Horror GIF](https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif)  
+*Your nightmare is being typed… character by character… mwahaha…*
 
+---
 | Project        | Description                                         | Status    |
 | -------------- | --------------------------------------------------- | --------- |
 | **GhoulHub**   | A repository so scary, it forks itself 🕸️          | 🩸 Active |
