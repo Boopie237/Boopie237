@@ -28,7 +28,7 @@ I spend my nights summoning **functions** and **algorithms** in the dark corners
 
 ## 🕷️ Skills that Creep
 
-🧟‍♂️ JavaScript    : Summoning loops & callbacks
-🧟‍♂️ C/C++         : Casting pointers & memory spells
-🧟‍♂️ WebDev        : Hexing HTML, CSS, JS into websites
+- 🧟‍♂️ JavaScript    : Summoning loops & callbacks
+- 🧟‍♂️ C/C++         : Casting pointers & memory spells
+- 🧟‍♂️ WebDev        : Hexing HTML, CSS, JS into websites
 
