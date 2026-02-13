@@ -18,6 +18,15 @@
 > Here, code awakens from its grave,  
 > and functions may byte if provoked. 🩸
 
-- 🕷️ **Languages:** Python, JavaScript, C++, and ancient incantations  
+- 🕷️ **Languages:** JavaScript, C++, and ancient incantations  
 - 🕸️ **Purpose:** To haunt, spook, and occasionally compute  
-- 🧛‍♂️ **Owner:** Boopie237, Keeper of the Bit-Labyrinth  
+- 🧛‍♂️ **Owner:** Boopie237, Keeper of the Bit-Labyrinth
+
+## <span style="color: darkred;">💀 Ghastly Typing Demo</span>
+
+<p>
+  <code>
+    <span class="typed">Boopie237 summons code…</span>
+  </code>
+</p>
+
