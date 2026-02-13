@@ -1,16 +1,24 @@
-## Hi there 👋
+# Jesse Walters
 
-<!--
-**Boopie237/Boopie237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I debug in the dark.  
+> I commit at midnight.  
+> The code never lies… but it does whisper.
 
-Here are some ideas to get you started:
+💻 Computer Science Student  
+🌧️ Java | C | JavaScript  
+🕶️ Building systems in the shadows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Noir Banner](banner.jpg)
+
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=white)
+
+## 🗂 Case Files
+
+- 🎓 Student Grade Calculator  
+- 💰 Expense Tracker  
+- ⚙️ System Analysis Project
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark)
+
