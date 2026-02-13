@@ -1,24 +1,26 @@
-# 👻 BOOPIE237'S LAIR 👻
-<sub>Enter… if you dare.</sub>
+# 🌒 Boopie237 – The Nightwalker of Code
 
-![Creepy Badge](https://img.shields.io/badge/Mood-Haunted-red?style=for-the-badge&logo=ghost) 
-![Blood Badge](https://img.shields.io/badge/Style-80s_Horror-ff0000?style=for-the-badge) 
-![GitHub Followers](https://img.shields.io/github/followers/Boopie237?label=Followers&style=for-the-badge)
+  .--.
+ |o_o |
+ |:_/ |
+//   \ \
+
+*The rain falls, the neon flickers, and code whispers in the shadows…*
 
 ---
 
-## ⚰️ ABOUT ME
-- I stalk code like a shadow in the night
-+ 80s horror movies fuel my creativity
-! Beware: code may bite 🩸
+## 🕵️‍♂️ About Me
 
-<div id="typing"></div>
-<script src="https://cdn.jsdelivr.net/gh/mattboldt/typed.js@2.0.12/lib/typed.min.js"></script>
-<script>
-var typed = new Typed('#typing', {
-  strings: ["I code in shadows...", "I haunt the console...", "I debug the undead..."],
-  typeSpeed: 50,
-  backSpeed: 25,
-  loop: true
-});
-</script>
+I walk the alleys of JavaScript, C++, and Python.  
+I solve bugs like cold cases.  
+I commit code like confessions in the dark.  
+
+---
+
+## 💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
