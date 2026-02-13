@@ -34,5 +34,6 @@ I spend my nights summoning **functions** and **algorithms** in the dark corners
 
 ## 💀 Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Boopie237&show_icons=true&theme=dark" alt="Boopie237 Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Boopie237&show_icons=true&count_private=true&theme=dark" alt="Boopie237 Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boopie237&layout=compact&theme=dark" alt="Boopie237 Top Languages" />
 </p>
