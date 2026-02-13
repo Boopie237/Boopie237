@@ -32,5 +32,4 @@ I spend my nights summoning **functions** and **algorithms** in the dark corners
 - 🧟‍♂️ C/C++         : Casting pointers & memory spells
 - 🧟‍♂️ WebDev        : Hexing HTML, CSS, JS into websites
 
-🎃 Spooky Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Boopie237&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats"> </p>
+<p> <code> <script src="https://cdn.jsdelivr.net/gh/cferdinandi/typed.js@2.0.12/dist/typed.min.js"></script> <script> var typed = new Typed('.typed', { strings: ["Boo! 👻", "Coding in the dark...", "Debugging... slowly..."], typeSpeed: 50, backSpeed: 25, loop: true }); </script> <span class="typed"></span> </code> </p>
