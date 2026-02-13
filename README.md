@@ -21,3 +21,14 @@ Loading nightmares...
 ███▒▒▒▒▒▒▒▒▒▒▒ 50%
 Initializing terror.exe 🩸
 Ready to haunt your GitHub dreams
+
+“Why did the skeleton not commit? He didn’t have the guts.” 😈
+
+███████████████████████████
+█ ░░░░░░░░░░░░░░░░░░░░░ ░█
+█ BOOPIE237’S NIGHTMARE █
+█ ░░░░░░░░░░░░░░░░░░░░░ █
+███████████████████████████
+Loading screams...
+Initializing terror...
+100% ready to haunt your commits!
