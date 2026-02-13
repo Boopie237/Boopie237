@@ -32,8 +32,13 @@ I spend my nights summoning **functions** and **algorithms** in the dark corners
 - 🧟‍♂️ C/C++         : Casting pointers & memory spells
 - 🧟‍♂️ WebDev        : Hexing HTML, CSS, JS into websites
 
-## 💀 Github Stats
+## 💀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Boopie237&show_icons=true&count_private=true&theme=dark" alt="Boopie237 Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boopie237&layout=compact&theme=dark" alt="Boopie237 Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Boopie237&show_icons=true&theme=dark&hide_border=true" alt="Boopie237 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boopie237&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+## 🕯️ Animated Spellcasting
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FF0000&center=true&width=600&lines=Beware+the+bugs...;Creep+through+my+code...;Enter+if+you+dare..." />
 </p>
