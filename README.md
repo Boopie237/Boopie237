@@ -38,3 +38,29 @@
 
 <details>
   <summary>Click to see my cases… if you dare</summary>
+
+  </details>
+
+---
+
+## 🏆 Badges of Honor  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Crime%20Scene-grey?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Bug-Hunter-grey?style=for-the-badge&logo=bug" />
+  <img src="https://img.shields.io/badge/Commit-Master-grey?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Shadow-Lurker-grey?style=for-the-badge&logo=ghost" />
+</p>
+
+---
+
+## ⌨️ Typing in the Shadows  
+
+<p align="center">
+  <kbd>
+  <i>Booting noir.exe…</i><br>
+  <i>Scanning alleyways…</i><br>
+  <i>Checking for loose semicolons…</i><br>
+  <i>Compiling noir-logic…</i>
+  </kbd>
+</p>
