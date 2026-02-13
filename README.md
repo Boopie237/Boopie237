@@ -1,28 +1,3 @@
-Time to dress your GitHub profile in a trench coat and park it under a flickering streetlamp. 🌒🕶️
-We’re going full film noir.
-
-GitHub lets you customize your profile by creating a special repository:
-
-Step 1: Create the Magic Repo
-
-Go to GitHub
-
-Click New Repository
-
-Name it exactly your username
-Example: JesseWalters
-
-Make it Public
-
-Check Add a README file
-
-Click Create repository
-
-That README becomes your profile page.
-
-Now here’s your full Film Noir themed README code.
-Copy everything below and paste it into your README.md.
-
 <!-- ============================= -->
 <!--        FILM NOIR PROFILE      -->
 <!-- ============================= -->
