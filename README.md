@@ -1,34 +1,47 @@
-<div align="center">
+# 👻 Boopie237’s VHS Nightmare 📼
 
-![GitHub followers](https://img.shields.io/github/followers/Boopie237?style=social)
-![Repo stars](https://img.shields.io/github/stars/Boopie237/Boopie237.github.io?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/Boopie237/Boopie237.github.io)
-![Issues](https://img.shields.io/github/issues/Boopie237/Boopie237.github.io)
-
-![Spooky Badge](https://img.shields.io/badge/Spooky-Haunted-red?style=for-the-badge)
-![Cursed Badge](https://img.shields.io/badge/Cursed-Files-ff0000?style=for-the-badge)
-![Zombie Approved](https://img.shields.io/badge/Zombie-Approved-008000?style=for-the-badge)
-![VHS Quality](https://img.shields.io/badge/VHS-Quality-9400D3?style=for-the-badge)
-
-</div>
+![VHS Badge](https://img.shields.io/badge/VHS-BloodRed?style=for-the-badge&logo=ghost) ![80s Horror](https://img.shields.io/badge/Genre-Horror-NeonRed?style=for-the-badge) ![User](https://img.shields.io/badge/User-Boopie237-EeriePurple?style=for-the-badge)
 
 ---
 
-## ⚡️ **`~*WELCOME TO THE DIGITAL CRYPT*~`** ⚡️
+## ⚡ WELCOME TO THE TAPE
 
-👻 Boooooooooooooo...
-Loading nightmares...
-███▒▒▒▒▒▒▒▒▒▒▒ 50%
-Initializing terror.exe 🩸
-Ready to haunt your GitHub dreams
+> *"Insert tape… if you dare…"*  
 
-“Why did the skeleton not commit? He didn’t have the guts.” 😈
+<style>
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+.typing-text {
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 0.15em solid red;
+  animation: typing 5s steps(50, end), blink-caret 0.75s step-end infinite;
+}
+@keyframes blink-caret {
+  50% { border-color: transparent; }
+}
+</style>
 
-███████████████████████████
-█ ░░░░░░░░░░░░░░░░░░░░░ ░█
-█ BOOPIE237’S NIGHTMARE █
-█ ░░░░░░░░░░░░░░░░░░░░░ █
-███████████████████████████
-Loading screams...
-Initializing terror...
-100% ready to haunt your commits!
+<div class="typing-text">▶ Loading nightmare… 100% scary… ☠️</div>
+
+---
+
+## 🧟 VHS COLLECTION OF HORROR PUNS
+
+- **Fright Nightly:** Because sleep is for the living.  
+- **Scream & Shout:** Guaranteed to wake the neighbors.  
+- **The Boopie Awakens:** Don’t let the username fool you…  
+- **Nightmare on Boopie Street:** Sleep tight, or else.  
+- **Ghoul Getter:** Catch ‘em all… in the dark.  
+
+---
+
+## 🔮 HOW TO ENTER THE TAPE
+
+Clone this VHS hellscape:
+
+git clone https://github.com/Boopie237/vhs-nightmare.git
+cd vhs-nightmare
+Warning: The code may byte. 🩸
