@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-  <img src="https://c.tenor.com/IH6GbLnhlXMAAAAC/ghost-spooky.gif" width="150" />
-  &nbsp;&nbsp;
-  <img src="https://c.tenor.com/JCk2E5qXxZIAAAAC/spooky.gif" width="150" />
-  &nbsp;&nbsp;
-  <img src="https://c.tenor.com/QzPdp7-l1NYAAAAC/halloween-halloween-night.gif" width="150" />
+  <i style="color:#ff0000; animation: blink 1s infinite;">“I like my code like I like my ghosts… spooky & full of surprises.”</i>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZsYv7YFqW4qH0He/giphy.gif" alt="Spooky GIF" />
 </p>
