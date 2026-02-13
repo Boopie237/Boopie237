@@ -14,16 +14,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&color=FF0000&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+haunt...;Beware+of+the+code+that+shrieks...;Enjoy+the+gore+and+glitches!" alt="Animated Typing">
 </p>
 
-![dracula](https://github.com/user-attachments/assets/846ed542-e442-4ff1-821e-2f0a5ce179b0)
-
 "Debugging is just **exorcism** for the code spirits."
 
-## 🩸 About Me
+## 💀 About Me
+I’m **Boopie237**, your friendly neighborhood code-ghoul.  
+I spend my nights summoning **functions** and **algorithms** in the dark corners of my lair.  
 
-I’m **Boopie237**, a code necromancer resurrecting old bugs and exorcising them one commit at a time.  
-Currently haunting the realms of:
+- Learning **JavaScript**, **C/C++**, and **WebDev**  
+- Collecting bugs… and sometimes fixing them before they haunt me 👀  
+- Occasional ghost in the machine 👻  
 
-- 🕸️ **Javascript** – weaving webs of functions and callbacks  
-- 🧛 **C/C++** – conjuring pointers and ghostly memory leaks  
-- 🕷️ **Web Development** – crafting sites that scare… I mean, *shine*
+---
+
+## 🕷️ Skills that Creep
+
+🧟‍♂️ JavaScript    : Summoning loops & callbacks
+🧟‍♂️ C/C++         : Casting pointers & memory spells
+🧟‍♂️ WebDev        : Hexing HTML, CSS, JS into websites
 
