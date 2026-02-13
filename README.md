@@ -8,6 +8,8 @@
 
 <h1 align="center">👻 Boopie237's Haunted GitHub 🎬</h1>
 
+> *“Enter if you dare… code may byte.”*
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&color=FF0000&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+haunt...;Beware+of+the+code+that+shrieks...;Enjoy+the+gore+and+glitches!" alt="Animated Typing">
 </p>
