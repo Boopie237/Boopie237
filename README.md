@@ -17,3 +17,11 @@
 
 "Debugging is just **exorcism** for the code spirits."
 
+## 🩸 About Me
+
+I’m **Boopie237**, a code necromancer resurrecting old bugs and exorcising them one commit at a time.  
+Currently haunting the realms of:
+
+- 🕸️ **Javascript** – weaving webs of functions and callbacks  
+- 🧛 **C/C++** – conjuring pointers and ghostly memory leaks  
+- 🕷️ **Web Development** – crafting sites that scare… I mean, *shine*
