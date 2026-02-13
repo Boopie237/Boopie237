@@ -1,32 +1,27 @@
-<h1 align="center">
-  <span style="color: crimson;">👻 Welcome, Mortals, to Boopie237's Crypt 🕯️</span>
-</h1>
+# 👻 Boopie237's Haunted GitHub Lair
 
 <p align="center">
-  <em style="color: darkred;">A ghastly repository where nightmares code themselves…</em>
+  <img src="https://img.shields.io/badge/genre-HORROR-red?style=for-the-badge&logo=ghost" alt="Horror Badge">
+  <img src="https://img.shields.io/badge/era-1980s-purple?style=for-the-badge&logo=retroarch" alt="80s Badge">
+  <img src="https://img.shields.io/badge/language-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Badge">
+  <img src="https://img.shields.io/badge/language-C++-blue?style=for-the-badge&logo=c%2B%2B" alt="C++ Badge">
+  <img src="https://img.shields.io/badge/language-C-red?style=for-the-badge&logo=c" alt="C Badge">
+  <img src="https://img.shields.io/badge/language-WebDev-orange?style=for-the-badge&logo=html5" alt="WebDev Badge">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Caution-Beware%20of%20bugs-red?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/Magic-Spells%20Enabled-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Skull_Count-Too%20Many-black?style=for-the-badge">
-</p>
+---
 
-## <span style="color: darkred;">⚰️ About This Tomb</span>
+## 🎃 Welcome to My Crypt of Code
 
-> This repository is not for the faint of heart…  
-> Here, code awakens from its grave,  
-> and functions may byte if provoked. 🩸
+> *"Ah, my dear visitor… do step lightly. Here, code lurks in the shadows… and bugs feast at midnight."*  
+> – Imaginary Vincent Price voice  
 
-- 🕷️ **Languages:** JavaScript, C++, and ancient incantations  
-- 🕸️ **Purpose:** To haunt, spook, and occasionally compute  
-- 🧛‍♂️ **Owner:** Boopie237, Keeper of the Bit-Labyrinth
+I am **Boopie237**, a spectral wanderer of the programming realms. My recent hauntings include:
 
-## <span style="color: darkred;">💀 Ghastly Typing Demo</span>
+- JavaScript 👹 – the spellbook of the modern web  
+- C / C++ 🕸️ – for conjuring low-level incantations  
+- Web Development 🦇 – weaving webs more tangled than a ghost's hair  
 
-<p>
-  <code>
-    <span class="typed">Boopie237 summons code…</span>
-  </code>
-</p>
+---
 
+## 🩸 Skills That Go Bump in the Night
