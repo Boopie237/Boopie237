@@ -1,19 +1,18 @@
-# 👻 Boopie237's Haunted GitHub 🕷️
-
-<p align="center">
-  <img src="https://img.shields.io/badge/genre-HORROR-red?style=for-the-badge&logo=ghost" alt="Horror Badge">
-  <img src="https://img.shields.io/badge/language-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JS Badge">
-  <img src="https://img.shields.io/badge/language-C/C++-blue?style=for-the-badge&logo=c" alt="C/C++ Badge">
-  <img src="https://img.shields.io/badge/language-WebDev-purple?style=for-the-badge&logo=html5" alt="WebDev Badge">
-  <img src="https://img.shields.io/badge/mood-Boo!-orange?style=for-the-badge&logo=ghost" alt="Mood Badge">
-</p>
+### 🎩 Badges from the Smoke-Filled Room
+![JavaScript](https://img.shields.io/badge/Learning-JavaScript-yellow?style=for-the-badge&logo=javascript)  
+![C++](https://img.shields.io/badge/Learning-C++-00599C?style=for-the-badge&logo=c%2B%2B)  
+![WebDev](https://img.shields.io/badge/Learning-WebDev-ff69b4?style=for-the-badge&logo=html5)  
+![Noir Mood](https://img.shields.io/badge/Mood-Noir-2f2f2f?style=for-the-badge&logo=ghost)  
 
 ---
 
-## 🕯️ About Me
+## 🕵️ Who’s This Sleuth?
 
-I wander the corridors of code like a restless spirit.  
-Currently haunting: **JavaScript**, **C/C++**, and **Web Development**.  
-My repositories are full of screams… I mean, streams.
+I’m **Boopie237**, the kind of detective who solves mysteries in code and sips too much coffee while debugging.  
 
----
+**Currently in my case file:**  
+- 📝 Learning **JavaScript, C/C++, and Web Development**  
+- 🕵️ Solving the cold case of “Why doesn’t my code compile?”  
+- 🔍 Collecting clues in **functions, pointers, and DOM elements**  
+
+
