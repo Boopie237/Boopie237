@@ -1,24 +1,19 @@
-# Jesse Walters
+<div align="center">
 
-> I debug in the dark.  
-> I commit at midnight.  
-> The code never lies… but it does whisper.
+# 🕶️ Jesse Walters
 
-💻 Computer Science Student  
-🌧️ Java | C | JavaScript  
-🕶️ Building systems in the shadows
+> *"In a world of broken builds and silent bugs… one developer commits in the dark."*
 
-![Noir Banner](banner.jpg)
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Late+Night+Debugger;Chasing+Clean+Code;Living+in+the+Terminal" />
 
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=white)
+</div>
 
-## 🗂 Case Files
+---
 
-- 🎓 Student Grade Calculator  
-- 💰 Expense Tracker  
-- ⚙️ System Analysis Project
+## 🌒 About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark)
-
+```text
+Location: Somewhere between midnight and production.
+Specialty: Debugging in the rain.
+Stack: Java | C | JavaScript | HTML | CSS
+Motto: Trust no input.
