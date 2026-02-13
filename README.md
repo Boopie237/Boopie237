@@ -1,25 +1,24 @@
-<!-- ========================= -->
-<!--  FILM NOIR GITHUB PROFILE -->
-<!-- ========================= -->
+# 🕶️ Jesse Walters
 
-<div align="center">
-
-# 🕶️ **JESSE WALTERS**
-### *Code in the rain. Bugs in the shadows.*
-
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="600"/>
-
-</div>
+> "Code is a city at night. Beautiful. Dangerous. Full of bugs."
 
 ---
 
-## 🌑 The Scene
+## 🧥 About Me
 
-It’s always late in the terminal.  
-Coffee’s cold. Deadlines are warmer than they look.  
-I build things. Break things. Fix them before sunrise.
+I write code the way detectives write reports —  
+carefully, skeptically, and usually at 2AM.
 
-```txt
-Location: Somewhere between localhost and production
-Weather: Constant drizzle
-Mood: Focused
+- 💻 Studying systems, backend logic, and low-level programming  
+- 🧠 Interested in C, Java, Linux, and clean architecture  
+- 🌒 I debug in the dark  
+- ☕ Powered by coffee and unresolved edge cases  
+
+---
+
+## 🏙️ Tech Stack
+
+```bash
+Languages:   C | Java | JavaScript
+Tools:       Git | Linux | VS Code
+Concepts:    Data Structures | System Design | CLI Wizardry
