@@ -11,3 +11,8 @@
 ---
 
 ## 🌫️ Welcome to the Shadows
+
+🔥 Live Typing Case
+<p align="center"> 🕵️‍♂️ Detecting bugs… <span>:hourglass_flowing_sand: . . . . . .</span> <span>:detective: commit in progress...</span> </p>
+
+Every dot is a step in the foggy night of code.
