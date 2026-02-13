@@ -14,6 +14,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&color=FF0000&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+haunt...;Beware+of+the+code+that+shrieks...;Enjoy+the+gore+and+glitches!" alt="Animated Typing">
 </p>
 
+![dracula](https://github.com/user-attachments/assets/846ed542-e442-4ff1-821e-2f0a5ce179b0)
 
 "Debugging is just **exorcism** for the code spirits."
 
