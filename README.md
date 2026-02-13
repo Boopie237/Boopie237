@@ -38,10 +38,4 @@
 
 ---
 
-## 🔮 HOW TO ENTER THE TAPE
-
-Clone this VHS hellscape:
-
-git clone https://github.com/Boopie237/vhs-nightmare.git
-cd vhs-nightmare
 Warning: The code may byte. 🩸
