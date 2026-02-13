@@ -1,20 +1,30 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=28&duration=3000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&lines=Boopie237;Code+in+the+Shadows;Shipping+Features+at+Midnight" />
-</p>
+<!--
+   ██████╗  ██████╗  ██████╗ ██████╗ ██╗███████╗
+   ██╔══██╗██╔═══██╗██╔═══██╗██╔══██╗██║██╔════╝
+   ██████╔╝██║   ██║██║   ██║██████╔╝██║█████╗  
+   ██╔══██╗██║   ██║██║   ██║██╔═══╝ ██║██╔══╝  
+   ██████╔╝╚██████╔╝╚██████╔╝██║     ██║███████╗
+   ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚══════╝
+-->
+
+# 🕶️ Boopie237
+
+> "I don't debug code. I interrogate it."
 
 ---
 
-# 🕶️ BOOPIE237
+## 🌒 About Me
 
-> "In this city, bugs don’t hide… they lurk."
+🔦 Full-stack detective  
+🌧️ Coding in the rain since `git init`  
+🗂️ Solving mysteries in JavaScript, C, and whatever language left fingerprints  
+☕ Powered by black coffee and darker themes  
+
+When the night gets quiet, that's when the bugs start talking.
 
 ---
 
-## 🗂 Case File
-Alias: Boopie237
-Occupation: Full Stack Operative
-Specialty: Debugging in low light
-Status: Watching the logs...
-
-📊 The Dossier
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Boopie237&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=cccccc&text_color=aaaaaa" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boopie237&theme=black-ice&hide_border=true&background=000000" /> </p>
+## 🧥 Tech Arsenal
+Languages:    JavaScript | C | Java | HTML | CSS
+Tools:        Git | GitHub | VS Code | Linux Terminal
+Specialty:    Turning stack traces into confessions
