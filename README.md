@@ -11,3 +11,14 @@
 - I stalk code like a shadow in the night
 + 80s horror movies fuel my creativity
 ! Beware: code may bite 🩸
+
+<div id="typing"></div>
+<script src="https://cdn.jsdelivr.net/gh/mattboldt/typed.js@2.0.12/lib/typed.min.js"></script>
+<script>
+var typed = new Typed('#typing', {
+  strings: ["I code in shadows...", "I haunt the console...", "I debug the undead..."],
+  typeSpeed: 50,
+  backSpeed: 25,
+  loop: true
+});
+</script>
