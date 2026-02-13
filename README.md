@@ -1,5 +1,7 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="300" alt="Creepy typing effect">
-</p>
+<h1 align="center">
+  <span style="color: crimson;">👻 Welcome, Mortals, to Boopie237's Crypt 🕯️</span>
+</h1>
 
-# 👻 Welcome to the Haunted Lair of Boopie237 👻
+<p align="center">
+  <em style="color: darkred;">A ghastly repository where nightmares code themselves…</em>
+</p>
